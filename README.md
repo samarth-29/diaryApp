@@ -1,5 +1,5 @@
 
-A very simple CRUD application with react-redux with firebase.
+A very simple CRUD application of react-redux with firebase.
 
 Check Demo here: https://diary-113fa.firebaseapp.com/login
 
